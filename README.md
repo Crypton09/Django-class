@@ -1,0 +1,2 @@
+# Django-class
+Django Project
